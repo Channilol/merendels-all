@@ -45,8 +45,8 @@ Il progetto è completamente containerizzato con Docker e include:
 
 ```bash
 # Clona il repository
-git clone [https://github.com/Channilol/merendels]
-cd merendels
+git clone https://github.com/Channilol/merendels-all.git
+cd merendels-all
 
 # Avvia tutto il sistema
 docker-compose up --build
@@ -94,7 +94,7 @@ merendels/
 
 Per testare il backend e tutte le funzionalità disponibili, consulta la documentazione completa:
 
-**[📖 Guida Test API Backend](./docs/API_TESTING_GUIDE.pdf)**
+**[📖 Guida Test API Backend](https://github.com/Channilol/merendels-all/blob/main/docs/Merendels%20Backend%20-%20Guida%20Test%20API.pdf)**
 
 La documentazione include:
 
